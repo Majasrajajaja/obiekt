@@ -1,0 +1,20 @@
+Boleń
+Wymiar ochronny: 40 cm
+Okres ochronny: 1 stycznia 30 kwietnia
+Ile sztuk na dobe: 2 szt.
+Brzana
+Wymiar ochronny: 40 cm
+Okres ochronny: 1 stycznia 30 czerwca
+Ile sztuk na dobe: 3 szt.
+Głowacica
+Wymiar ochronny: 70 cm
+Okres ochronny: 1 marca 31 maja
+Ile sztuk na dobe: 1 szt.
+Sandacz
+Wymiar ochronny: 50 cm
+Okres ochronny: 1 stycznia - 31 maja
+Ile sztuk na dobe: 2 szt.
+Sieja
+Wymiar ochronny: 50 cm
+Okres ochronny: 1 stycznia - 31 maja
+Ile sztuk na dobe: 2 szt.
